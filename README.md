@@ -1,6 +1,6 @@
 # Micro Python Garage Door Opener
 
-Micro Python Garage Door Opener is a repository with instructions and code to build and run a small web server on the ESP8266-01 wich will drive a Relay to trigger a garage door system button press and allow you to open your garage door form any web browser.
+Micro Python Garage Door Opener is a repository with instructions and code to build and run a small web server on the ESP8266-01 wich will drive a relay to trigger a garage door system button press and allow you to open your garage door form any web browser.
 
 ## Installation / Construction
 
